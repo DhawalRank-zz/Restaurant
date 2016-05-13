@@ -12,6 +12,9 @@
   "scripts": {
     "start": "node restoapi.js"
   },
+  "engines": {
+    "node": "0.10.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DhawalRank/Restaurant.git"
