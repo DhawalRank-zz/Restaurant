@@ -1,6 +1,6 @@
 "scripts": {
   "start": "node restoapi.js"
-}
+},
 {
   "name": "reataurant",
   "version": "1.0.0",
