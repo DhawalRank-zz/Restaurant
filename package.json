@@ -1,6 +1,4 @@
-"scripts": {
-  "start": "node restoapi.js"
-},
+"start": "node server.js":
 {
   "name": "reataurant",
   "version": "1.0.0",
