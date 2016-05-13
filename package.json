@@ -1,7 +1,9 @@
-"start": "node server.js":
 {
   "name": "reataurant",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
   "description": "",
   "main": "restoapi.js",
   "dependencies": {
